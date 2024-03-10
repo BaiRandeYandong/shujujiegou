@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="shujujiegou:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/shujujiegou_jar</output-path>
+    <root id="archive" name="shujujiegou.jar">
+      <element id="module-output" name="shujujiegou" />
+    </root>
+  </artifact>
+</component>
