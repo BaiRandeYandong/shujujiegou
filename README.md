@@ -1,5 +1,5 @@
-This is the homework of my data structure lesson
+This is the homework of my Data Structure lesson
 
 It‘s a game about Blue Archive
 
-Please use JAVA 1.8 JRE
+Please use Java 1.8 JRE
